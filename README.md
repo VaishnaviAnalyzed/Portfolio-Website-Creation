@@ -1,2 +1,2 @@
 # Portfolio
-A responsive personal portfolio website showcasing my skills, projects, and contact information. Built with HTML, CSS, and JavaScript. 
+This is a high-performance, responsive portfolio website built with HTML, CSS, and JavaScript. It highlights my AI, Data Science, and Web Development projects with clean, user-centric web design. 
